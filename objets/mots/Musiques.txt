@@ -1,0 +1,77 @@
+violon
+alto
+violoncelle
+contrebasse
+harpe
+guitare
+mandoline
+clavecin
+piano
+synthétiseur
+flûte à bec
+petite flûte 
+flûte traversière
+flûte de pan
+hautbois
+cor anglais
+basson
+contrebasson
+cornemuse
+clarinette
+saxophone
+trompette
+trombone
+cor
+tuba
+orgue
+bongos
+caisse claire
+castagnettes
+cymbale
+carillon
+grosse caisse
+maracas
+tam-tam
+tambour
+tambourin
+triangle
+xylophone
+Violon
+Alto
+Violoncelle
+Contrebasse
+Harpe
+Guitare
+Mandoline
+Clavecin
+Piano
+Synthétiseur
+Flûte à bec
+Petite flûte 
+Flûte traversière
+Flûte de Pan
+Hautbois
+Cor anglais
+Basson
+Contrebasson
+Cornemuse
+Clarinette
+Saxophone
+Trompette
+Trombone
+Cor
+Tuba
+Orgue
+Bongos
+Caisse claire
+Castagnettes
+Cymbale
+Carillon
+Grosse caisse
+Maracas
+Tam-tam
+Tambour
+Tambourin
+Triangle
+Xylophone
+
