@@ -1,5 +1,5 @@
 
-![Generic badge](https://img.shields.io/badge/STATUT-ARCHIVED-orange.svg)   ![Generic badge](https://img.shields.io/badge/VERSION-1.0-green.svg) ![Generic badge](https://img.shields.io/badge/SCHOOL_PROJET-Saint_Jean_Baptiste-blue.svg)
+![Generic badge](https://img.shields.io/badge/STATUT-ARCHIVED-orange.svg)   ![Generic badge](https://img.shields.io/badge/VERSION-2.0-green.svg) ![Generic badge](https://img.shields.io/badge/SCHOOL_PROJET-Saint_Jean_Baptiste-blue.svg)
 
 
 # Baccalaureate Game
@@ -22,6 +22,11 @@
 
 ## About The Projet
 Small project coded in python develop when i was in secondary school.
+
+### Screenshots
+  ![](https://github.com/LeigerMax/SJB-Baccalaureate-Game/blob/main/Images/menu1.png?raw=true | width=100)
+
+![](https://github.com/LeigerMax/SJB-Baccalaureate-Game/blob/main/Images/image_game.png?raw=true | width=100)
 
 
 ## Rules Of The Game 
