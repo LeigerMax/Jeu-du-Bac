@@ -24,9 +24,9 @@
 Small project coded in python develop when i was in secondary school.
 
 ### Screenshots
-  ![](https://github.com/LeigerMax/SJB-Baccalaureate-Game/blob/main/Images/menu1.png?raw=true | width=100)
-
-![](https://github.com/LeigerMax/SJB-Baccalaureate-Game/blob/main/Images/image_game.png?raw=true | width=100)
+  
+<img src="https://github.com/LeigerMax/SJB-Baccalaureate-Game/blob/main/Images/menu1.png" width="60">
+<img src="https://github.com/LeigerMax/SJB-Baccalaureate-Game/blob/main/Images/image_game.png" width="60">
 
 
 ## Rules Of The Game 
