@@ -24,10 +24,11 @@
 Small project coded in python develop when i was in secondary school.
 
 ### Screenshots
-  
-<img src="https://github.com/LeigerMax/SJB-Baccalaureate-Game/blob/main/Images/menu1.png" width="100">
-<img src="https://github.com/LeigerMax/SJB-Baccalaureate-Game/blob/main/Images/image_game.png" width="100">
 
+  
+
+![App Screenshot](https://github.com/LeigerMax/SJB-Baccalaureate-Game/blob/main/Images/menu1.png?raw=true)
+![App Screenshot](https://github.com/LeigerMax/SJB-Baccalaureate-Game/blob/main/Images/image_game.png?raw=true)
 
 ## Rules Of The Game 
 The baccalaureate game or bac game, more familiarly known as petit bac, is a board and word game whose goal is to find, in writing and with a limited number of moves, a series of words belonging to categories predefined by the players and beginning with the given letter.
